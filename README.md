@@ -19,4 +19,4 @@ scikit-learn==1.1.1
 pillow==9.2.0
 protobuf==3.20.3
 
-add console.ui to the folder for seamless usage.
+add console_ui.py to the folder for seamless usage.
