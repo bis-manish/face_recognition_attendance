@@ -18,3 +18,5 @@ imutils==0.5.4
 scikit-learn==1.1.1
 pillow==9.2.0
 protobuf==3.20.3
+
+add console.ui to the folder for seamless usage.
